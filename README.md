@@ -1,5 +1,5 @@
 # Homework repo for 10601-Machine-Learning (Coding part only)
-The repo contains codes that builds the following models from strach. 
+The repo contains codes that build the following models from strach. 
 - hw1: Decision Stump
 - hw2: Decision Tree
 - hw4: Logistic Regression
